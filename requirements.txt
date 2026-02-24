@@ -1,0 +1,7 @@
+numpy
+piexif
+imagecodecs
+tifffile
+pillow
+pillow-avif-plugin
+pillow-jxl-plugin

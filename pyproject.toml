@@ -1,0 +1,23 @@
+[project]
+name = "save-image-adobe-rgb"
+version = "1.0.0"
+description = "Save images with Adobe RGB / sRGB color space and 8/16-bit depth control."
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = [
+  "numpy",
+  "piexif",
+  "imagecodecs",
+  "tifffile",
+  "pillow",
+  "pillow-avif-plugin",
+  "pillow-jxl-plugin",
+]
+
+[project.urls]
+Repository = ""
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Save Image Extended AdobeRGB"
+Icon = ""
