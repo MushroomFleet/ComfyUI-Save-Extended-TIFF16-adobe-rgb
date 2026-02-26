@@ -1,12 +1,11 @@
 [project]
 name = "save-image-adobe-rgb"
-version = "1.0.0"
-description = "Save images with Adobe RGB / sRGB color space and 8/16-bit depth control."
+version = "1.0.1"
+description = "Save images with Adobe RGB / sRGB color space and 8/16-bit depth control for ComfyUI."
 license = { text = "MIT" }
 requires-python = ">=3.9"
 dependencies = [
   "numpy",
-  "piexif",
   "imagecodecs",
   "tifffile",
   "pillow",
