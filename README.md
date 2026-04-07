@@ -126,3 +126,11 @@ MIT
 
  ████████▓▒░  MushroomFleet  ░▒▓████████
 ```
+
+---
+
+## Support This Project
+
+If you found this useful, please **star the repo** — it helps others discover it!
+
+[![Star on GitHub](https://img.shields.io/github/stars/MushroomFleet/ComfyUI-Save-Extended-TIFF16-adobe-rgb?style=social)](https://github.com/MushroomFleet/ComfyUI-Save-Extended-TIFF16-adobe-rgb)
